@@ -1,0 +1,112 @@
+[
+  {
+    "title": "Bilan type 1 — Recueil de données infirmier",
+    "purpose": "Structurer les données utiles à la compréhension de la situation, sans recopier tout le dossier.",
+    "fields": [
+      "Identité selon procédure et motif de prise en charge",
+      "Histoire de la situation et chronologie",
+      "Antécédents et traitements connus, allergies",
+      "État clinique : constantes, symptômes, examen/observations autorisés",
+      "Autonomie et activités de la vie quotidienne",
+      "État psychologique, compréhension, préférences et consentement",
+      "Environnement, entourage choisi, ressources et vulnérabilités",
+      "Risques identifiés et données manquantes",
+      "Sources et date/heure de chaque donnée"
+    ],
+    "example": "Exemple fictif : personne hospitalisée pour dyspnée. Données rapportées : essoufflement depuis 48 h, aggravation à l’effort. Données observées : FR 26/min, SpO₂ 91 % selon mesure vérifiée, parole entrecoupée. À compléter : valeur habituelle, traitement en cours, douleur, évolution et consignes médicales."
+  },
+  {
+    "title": "Bilan type 2 — Analyse clinique et problèmes/risques",
+    "purpose": "Passer des données aux problèmes relevant du rôle infirmier et aux risques à prévenir.",
+    "fields": [
+      "Données significatives et facteurs de contexte",
+      "Problème actuel formulé de façon observable",
+      "Risque potentiel et facteurs favorisants",
+      "Ressources et capacités de la personne",
+      "Hypothèses à vérifier (sans les présenter comme diagnostics établis)",
+      "Priorité argumentée et degré d’urgence",
+      "Données à compléter et professionnel à solliciter"
+    ],
+    "example": "Dyspnée : gêne respiratoire rapportée, polypnée et désaturation mesurée. Priorité : évaluer tolérance et alerter selon gravité. Risques à explorer : aggravation respiratoire, fatigue, anxiété. Ne pas conclure à une étiologie sans évaluation médicale."
+  },
+  {
+    "title": "Bilan type 3 — Projet de soins individualisé",
+    "purpose": "Relier besoins, objectifs mesurables, interventions, critères d’évaluation et réajustement.",
+    "fields": [
+      "Problème/besoin prioritaire",
+      "Objectif formulé avec la personne, mesurable et daté",
+      "Interventions relevant du rôle propre",
+      "Interventions sur prescription/protocole et vérifications",
+      "Coordination et information de la personne",
+      "Critères et échéance de réévaluation",
+      "Résultat obtenu et réajustement"
+    ],
+    "example": "Objectif : dans l’heure, la personne décrit une diminution de la gêne après installation et mesures prescrites, sans signe d’aggravation. Interventions : installation adaptée, surveillance prescrite, explication, alerte si aggravation. Évaluation : symptômes, FR, SpO₂, tolérance et évolution."
+  },
+  {
+    "title": "Bilan type 4 — Transmissions ciblées DAR",
+    "purpose": "Assurer une transmission concise, factuelle et exploitable.",
+    "fields": [
+      "D — Données : faits, paroles, mesures, contexte et heure",
+      "A — Actions : interventions réalisées, information et alerte",
+      "R — Résultats : réponse, évolution, réévaluation et suite"
+    ],
+    "example": "D : 14 h 10, Mme X signale une douleur abdominale à 7/10, apparue depuis 30 minutes ; pâleur observée, PA 100/62 mmHg. A : installation, constantes reprises, IDE référente et médecin alertés à 14 h 15. R : réévaluation en cours, consignes reçues et tracées dans le dossier."
+  },
+  {
+    "title": "Bilan type 5 — Surveillance clinique",
+    "purpose": "Rendre visibles les tendances et les seuils d’alerte définis par prescription/protocole.",
+    "fields": [
+      "Paramètre / symptôme",
+      "Valeur initiale et unité",
+      "Heure et conditions de mesure",
+      "Valeurs successives et tendance",
+      "Seuil ou signe d’alerte selon consigne",
+      "Action réalisée et personne informée",
+      "Réponse et prochaine réévaluation"
+    ],
+    "example": "Ne pas noter seulement « constantes stables ». Reporter les valeurs, unités, heures, conditions et comparaison à l’état habituel ; préciser l’alerte déclenchée si une valeur ou un signe se dégrade."
+  },
+  {
+    "title": "Bilan type 6 — Synthèse de situation et relève",
+    "purpose": "Transmettre les informations prioritaires à l’équipe suivante.",
+    "fields": [
+      "Situation actuelle et motif principal",
+      "Évolution depuis la dernière relève",
+      "Problèmes actifs et risques prioritaires",
+      "Traitements/dispositifs et surveillances à poursuivre",
+      "Résultats en attente et rendez-vous/échéances",
+      "Préférences, consentement et points relationnels utiles",
+      "Alertes et conduite prévue si aggravation"
+    ],
+    "example": "Patient admis pour infection respiratoire, état respiratoire surveillé. Évolution des constantes et oxygénothérapie à préciser avec valeurs et prescription. Résultats biologiques en attente. Alerter selon seuils/protocole si aggravation de dyspnée, conscience ou paramètres."
+  },
+  {
+    "title": "Bilan type 7 — Analyse de pratique en stage",
+    "purpose": "Développer le raisonnement réflexif sans jugement de soi ni de la personne soignée.",
+    "fields": [
+      "Contexte anonymisé et objectif du soin",
+      "Faits observés et actions réalisées",
+      "Ce qui a été réussi et éléments de sécurité",
+      "Difficultés, émotions et questionnement",
+      "Savoirs mobilisés et points à vérifier",
+      "Alternatives possibles et limites de compétence",
+      "Plan d’apprentissage concret et retour attendu"
+    ],
+    "example": "Après une mobilisation, l’étudiant décrit le contexte, les capacités de la personne, les aides utilisées, les vérifications de sécurité, la réponse du patient et ce qu’il ferait différemment. Aucun nom, date de naissance ou donnée identifiante."
+  },
+  {
+    "title": "Bilan type 8 — Évaluation d’une éducation en santé",
+    "purpose": "Vérifier ce que la personne a compris et peut mobiliser dans son quotidien.",
+    "fields": [
+      "Besoin et priorité exprimés par la personne",
+      "Objectif éducatif partagé",
+      "Connaissances et représentations initiales",
+      "Information/démonstration adaptée",
+      "Reformulation ou démonstration par la personne",
+      "Obstacles et ressources identifiés",
+      "Suite, relais et date de réévaluation"
+    ],
+    "example": "Après démonstration d’un inhalateur, demander à la personne de montrer les étapes avec son propre dispositif. Noter les étapes maîtrisées, celles à reprendre et le support ou relais prévu."
+  }
+]

@@ -1,0 +1,290 @@
+[
+  {
+    "discipline": "Cardiovasculaire",
+    "title": "Douleur thoracique à l’effort devenue persistante",
+    "level": "L2-L3",
+    "context": "M. R., 64 ans, est hospitalisé après une douleur rétrosternale apparue à la marche. Il décrit une oppression irradiant vers le bras gauche, désormais présente au repos. Antécédents rapportés : HTA et tabagisme. Il est pâle et anxieux.",
+    "data": [
+      "Douleur 7/10, début il y a 35 minutes",
+      "FC 112/min, PA 92/58 mmHg, FR 24/min, SpO₂ 94 % en air ambiant",
+      "Sueurs, nausées, sensation de malaise"
+    ],
+    "tasks": [
+      "Repérer les signes de gravité et les éléments à transmettre immédiatement.",
+      "Hiérarchiser les actions infirmières initiales dans le cadre du service.",
+      "Quelles données complémentaires recueillir sans retarder l’alerte ?",
+      "Rédiger une transmission structurée."
+    ],
+    "correction": [
+      "Douleur thoracique persistante au repos, irradiation, sueurs, tachycardie et hypotension : suspicion de syndrome coronarien aigu avec mauvaise tolérance possible. Ne pas conclure seul au diagnostic.",
+      "Alerter immédiatement selon procédure d’urgence du service, rester auprès du patient, évaluer ABC et conscience, installer selon tolérance/protocole, surveiller constantes et ECG selon organisation et compétence, préparer matériel/voie veineuse selon prescription/protocole. Ne pas faire marcher le patient.",
+      "Préciser heure exacte de début/dernière douleur, caractéristiques, antécédents, traitements/allergies, facteurs de risque, évolution et symptômes associés. Ne pas retarder les mesures urgentes.",
+      "Transmission : heure de début, description et intensité de la douleur, irradiation, constantes avec unités, signes associés, actions, heure et destinataire de l’alerte, réponse obtenue et évolution."
+    ],
+    "safety": "Urgence potentielle : appliquer immédiatement le protocole institutionnel et les consignes médicales. Aucun médicament ne doit être administré hors prescription/protocole."
+  },
+  {
+    "discipline": "Respiratoire",
+    "title": "Aggravation respiratoire chez une personne atteinte de BPCO",
+    "level": "L2-L3",
+    "context": "Mme L., 72 ans, suivie pour BPCO, consulte pour majoration de dyspnée et toux depuis 48 heures. Elle parle par courtes phrases et paraît épuisée.",
+    "data": [
+      "FR 30/min, SpO₂ 86 % en air ambiant, FC 118/min",
+      "Utilisation des muscles accessoires, sibilants audibles",
+      "Expectorations plus abondantes que d’habitude"
+    ],
+    "tasks": [
+      "Identifier les signes de détresse ou d’aggravation.",
+      "Décrire la surveillance immédiate et l’alerte.",
+      "Quelles précautions prendre avant de modifier l’oxygénothérapie ?",
+      "Construire une transmission."
+    ],
+    "correction": [
+      "Polypnée, désaturation, difficulté à parler, signes de lutte et épuisement sont des signes de gravité. L’épuisement et une altération de conscience éventuelle sont particulièrement préoccupants.",
+      "Alerter sans délai selon filière d’urgence, rester auprès de la patiente, surveiller conscience, FR, SpO₂, FC, PA, signes de lutte et évolution. Installer en position facilitant la ventilation si tolérée.",
+      "Ne pas ajuster librement le débit : suivre prescription/protocole, tenir compte de la cible prescrite et du risque d’hypercapnie chez certains patients BPCO. Une détresse prime et requiert une prise en charge urgente.",
+      "Noter heure, symptômes, valeurs, dispositif et débit en place, état de conscience, actions, personne alertée et évolution."
+    ],
+    "safety": "La cible de saturation et l’oxygénothérapie doivent suivre prescription/protocole individualisé. Une détresse respiratoire impose une alerte immédiate."
+  },
+  {
+    "discipline": "Locomoteur",
+    "title": "Chute avec douleur de hanche",
+    "level": "L1-L2",
+    "context": "Mme B., 83 ans, chute dans sa chambre. Elle ne peut pas se relever et décrit une douleur importante de la hanche droite. Le membre paraît en rotation externe.",
+    "data": [
+      "Douleur 8/10 à la mobilisation",
+      "Impossibilité d’appui",
+      "Pas de perte de connaissance rapportée ; circonstances à préciser"
+    ],
+    "tasks": [
+      "Quels éléments évoquent une lésion traumatique nécessitant une évaluation urgente ?",
+      "Quelles actions éviter ?",
+      "Quelles données recueillir et surveiller ?",
+      "Rédiger une transmission."
+    ],
+    "correction": [
+      "Douleur de hanche, impossibilité d’appui et déformation/rotation anormale font suspecter une fracture, sans la confirmer.",
+      "Ne pas tenter de remettre le membre en place ni de faire marcher la personne. Éviter les mobilisations non nécessaires ; alerter et appliquer le protocole de prise en charge d’une chute.",
+      "Préciser mécanisme, heure, douleur, appui, déformation, état cutané, sensibilité, motricité, coloration et température distales, traitements (notamment anticoagulants), traumatisme crânien possible et constantes.",
+      "Transmission factuelle avec heure/circonstances, constat clinique, douleur, état neurovasculaire distal, actions et alerte."
+    ],
+    "safety": "Ne pas mobiliser inutilement un membre avec suspicion de fracture. Alerter selon protocole."
+  },
+  {
+    "discipline": "Douleur et pharmacologie",
+    "title": "Douleur postopératoire insuffisamment soulagée",
+    "level": "L2",
+    "context": "M. A., 51 ans, revient de salle de réveil après chirurgie abdominale. Il grimace lors des mouvements et dit que la douleur l’empêche de respirer profondément.",
+    "data": [
+      "EN 7/10 au repos, 9/10 à la mobilisation",
+      "FR 22/min, SpO₂ 95 %, somnolence légère après antalgique prescrit",
+      "Dernière administration à 10 h 15, il est 11 h 00"
+    ],
+    "tasks": [
+      "Quelles dimensions de la douleur évaluer ?",
+      "Quels éléments de sécurité vérifier avant toute nouvelle administration ?",
+      "Pourquoi la réévaluation est-elle indispensable ?",
+      "Rédiger une transmission."
+    ],
+    "correction": [
+      "Localisation, type, intensité, temporalité, facteurs aggravants/soulageants, retentissement respiratoire et fonctionnel, attentes du patient.",
+      "Vérifier prescription, intervalle, dose déjà reçue, voie, allergies, traitements associés, niveau de vigilance, fréquence respiratoire et protocole. La somnolence est à prendre en compte et à signaler selon gravité.",
+      "La réévaluation mesure l’efficacité et dépiste effets indésirables. Elle guide la suite du plan de soins.",
+      "Documenter EN avant/après, horaires, traitement et dose selon prescription, vigilance, FR, retentissement et alerte éventuelle."
+    ],
+    "safety": "Ne pas répéter une dose sans vérifier prescription, intervalle et état clinique. Somnolence associée à une baisse respiratoire : alerte urgente."
+  },
+  {
+    "discipline": "Psychologie",
+    "title": "Anxiété avant un geste de soin",
+    "level": "L1-L2",
+    "context": "Mme S., 34 ans, doit bénéficier d’un soin invasif. Elle dit : « Je vais paniquer, je ne veux pas qu’on me fasse mal ». Elle évite le regard et serre les poings.",
+    "data": [
+      "La patiente est orientée et comprend les explications simples",
+      "Elle rapporte une expérience antérieure vécue comme douloureuse",
+      "Elle souhaite que sa sœur soit présente, si possible"
+    ],
+    "tasks": [
+      "Distinguer faits observés et interprétations.",
+      "Proposer une réponse relationnelle adaptée.",
+      "Comment vérifier compréhension et consentement ?",
+      "Quels éléments transmettre à l’équipe ?"
+    ],
+    "correction": [
+      "Faits : paroles exactes, évitement du regard, poings serrés, antécédent douloureux rapporté. « Elle est opposante » serait un jugement/interprétation.",
+      "Accueillir l’émotion, écouter sans minimiser, demander ce qui l’inquiète le plus, expliquer les étapes avec des mots simples, proposer des choix possibles et respecter le rythme dans le cadre du soin.",
+      "Demander à la patiente de reformuler ce qu’elle a compris, vérifier qu’elle accepte le soin et rappeler qu’elle peut poser des questions ou retirer son consentement.",
+      "Transmettre les paroles pertinentes, antécédent rapporté, facteurs apaisants souhaités, consentement et adaptations convenues."
+    ],
+    "safety": "Ne pas forcer le soin hors situation légalement justifiée. Respecter consentement, intimité et cadre professionnel."
+  },
+  {
+    "discipline": "Sociologie",
+    "title": "Risque de rupture de suivi lié à la précarité",
+    "level": "L2-L3",
+    "context": "M. D., 46 ans, sort d’hospitalisation après une décompensation d’une maladie chronique. Il explique ne pas avoir de logement stable, perdre souvent ses documents et ne pas pouvoir avancer les frais de transport.",
+    "data": [
+      "Rendez-vous de suivi prévu dans 10 jours",
+      "Le patient dit avoir déjà manqué plusieurs rendez-vous",
+      "Il souhaite être accompagné dans les démarches mais ne veut pas que toute sa famille soit informée"
+    ],
+    "tasks": [
+      "Identifier les déterminants sociaux pouvant affecter le parcours.",
+      "Distinguer besoin exprimé, hypothèse et jugement.",
+      "Proposer une coordination respectueuse de la confidentialité.",
+      "Formuler un objectif de sortie réaliste."
+    ],
+    "correction": [
+      "Logement, ressources, mobilité, accès aux droits, organisation et soutien social peuvent influencer la continuité. Les difficultés ne doivent pas être attribuées à un manque de motivation.",
+      "Besoin exprimé : aide aux démarches. Hypothèses à vérifier : difficulté de transport ou d’accès aux droits. Éviter les étiquettes telles que « non observant ».",
+      "Avec son accord et dans le cadre autorisé, solliciter assistant social, équipe de coordination et structures de proximité ; partager uniquement les informations nécessaires.",
+      "Objectif : identifier avec le patient un interlocuteur, un moyen de transport ou une solution d’accès et confirmer la faisabilité du rendez-vous."
+    ],
+    "safety": "Respecter le choix du patient et les règles de partage d’informations. Ne pas présumer de ses ressources ou de son entourage."
+  },
+  {
+    "discipline": "Communication et soins",
+    "title": "Refus de soin et incompréhension",
+    "level": "L1-L2",
+    "context": "Mme T., 68 ans, refuse une toilette au lit. Elle dit : « Vous ne m’avez pas demandé, vous décidez tout ». Le soignant est pressé par l’organisation du service.",
+    "data": [
+      "La patiente est éveillée et communique clairement",
+      "Elle souhaite faire seule le visage et le haut du corps",
+      "Elle demande un délai de 30 minutes"
+    ],
+    "tasks": [
+      "Quelle posture relationnelle adopter ?",
+      "Comment rechercher le motif du refus ?",
+      "Proposer une organisation respectant autonomie et sécurité.",
+      "Rédiger une transmission."
+    ],
+    "correction": [
+      "S’arrêter, reconnaître le refus, écouter et informer sans pression. Le refus est une information clinique et relationnelle à explorer.",
+      "Demander ce qui gêne, vérifier douleur, pudeur, fatigue, horaire, compréhension ou préférences. Ne pas supposer le motif.",
+      "Négocier un horaire, proposer une aide partielle et laisser faire les gestes possibles. Vérifier les risques et respecter le consentement.",
+      "Transmettre le refus exprimé, motif si communiqué, choix de la patiente, organisation convenue et réévaluation."
+    ],
+    "safety": "Respecter le consentement et le droit au refus selon le cadre légal. Alerter l’équipe si un risque immédiat ou une situation complexe est identifié."
+  },
+  {
+    "discipline": "Rénal et urinaire",
+    "title": "Baisse de diurèse en contexte de vomissements",
+    "level": "L2",
+    "context": "M. P., 76 ans, hospitalisé pour gastro-entérite, présente des vomissements répétés depuis la veille. L’équipe note une baisse des urines.",
+    "data": [
+      "Diurèse mesurée : 180 mL sur les 8 dernières heures",
+      "PA 98/60 mmHg, FC 108/min, muqueuses sèches",
+      "Créatinine antérieure disponible dans le dossier ; résultat du jour en attente"
+    ],
+    "tasks": [
+      "Vérifier la fiabilité du recueil et calculer les éléments utiles.",
+      "Identifier les risques et données complémentaires.",
+      "Quelles actions et alertes prioriser ?",
+      "Rédiger une transmission."
+    ],
+    "correction": [
+      "Vérifier horaires, exhaustivité du recueil, pertes, apports, éventuelle rétention et dispositif de mesure. Rapporter le volume et la période sans extrapoler.",
+      "Risque de déshydratation et d’altération aiguë de la fonction rénale. Rechercher poids, apports, vomissements, diarrhées, traitements, état de conscience, signes de perfusion et évolution des constantes.",
+      "Alerter le médecin/équipe selon procédure, surveiller constantes et bilan hydrique, transmettre résultats antérieurs et actuels. Toute compensation hydrique suit prescription/protocole et les comorbidités.",
+      "Transmission avec volume et période, apports/pertes, constantes, symptômes, traitements pertinents, actions et destinataire de l’alerte."
+    ],
+    "safety": "Ne pas prescrire soi-même une réhydratation. Adapter la conduite aux prescriptions et au terrain, notamment cardiaque/rénal."
+  },
+  {
+    "discipline": "Endocrinien",
+    "title": "Malaise chez une personne traitée par insuline",
+    "level": "L2-L3",
+    "context": "Mme F., 59 ans, diabétique traitée par insuline, devient moite et tremblante avant le déjeuner. Elle répond mais paraît confuse.",
+    "data": [
+      "Glycémie capillaire mesurée selon protocole : 0,52 g/L",
+      "Dernière prise alimentaire : petit-déjeuner à 7 h",
+      "Repas retardé ; dose d’insuline administrée selon prescription à 11 h 30"
+    ],
+    "tasks": [
+      "Identifier le problème prioritaire.",
+      "Décrire la conduite adaptée selon état de conscience et protocole.",
+      "Quelles données rechercher après correction ?",
+      "Rédiger une transmission."
+    ],
+    "correction": [
+      "Hypoglycémie probable confirmée par mesure basse, avec symptômes neurovégétatifs et confusion. La sécurité immédiate est prioritaire.",
+      "Appliquer immédiatement le protocole institutionnel d’hypoglycémie. Si la personne est consciente et peut avaler sans risque, la prise de glucides rapides suit le protocole ; si conscience altérée ou déglutition non sûre, rien par voie orale et alerte urgente avec prise en charge adaptée.",
+      "Recontrôler la glycémie au délai prévu, surveiller conscience et symptômes, analyser repas retardé, insuline reçue et facteurs déclenchants, prévenir récidive selon équipe.",
+      "Tracer glycémie avec heure, symptômes, alimentation, traitement reçu, actions, contrôle et réponse clinique."
+    ],
+    "safety": "Ne rien administrer par voie orale si conscience altérée ou déglutition non sûre. Appliquer le protocole local et alerter."
+  },
+  {
+    "discipline": "Neurovasculaire",
+    "title": "Déficit neurologique d’apparition brutale",
+    "level": "L2-L3",
+    "context": "M. C., 70 ans, présente soudainement une asymétrie du visage et une faiblesse du bras droit pendant le petit-déjeuner. Son épouse indique qu’il parlait normalement quelques minutes auparavant.",
+    "data": [
+      "Début des signes observé à 08 h 42",
+      "Trouble de la parole ; patient éveillé",
+      "PA 176/94 mmHg, glycémie capillaire disponible selon protocole"
+    ],
+    "tasks": [
+      "Quels signes évoquent une urgence neurovasculaire ?",
+      "Quelle information temporelle est essentielle ?",
+      "Organiser les actions et surveillances initiales.",
+      "Rédiger l’alerte."
+    ],
+    "correction": [
+      "Asymétrie faciale, faiblesse d’un membre et trouble de la parole d’apparition brutale : suspicion d’AVC.",
+      "Noter l’heure exacte de début et la dernière fois où le patient a été vu sans symptôme. Cette donnée conditionne l’évaluation thérapeutique.",
+      "Alerter immédiatement la filière AVC/urgence, ne pas donner à boire ou manger avant évaluation de la déglutition, surveiller conscience, constantes et évolution, préparer les informations et documents nécessaires selon protocole.",
+      "Message bref : suspicion AVC, heure de début 08 h 42, signes observés, dernière fois vu normal, constantes, glycémie si disponible, actions et évolution."
+    ],
+    "safety": "Ne pas attendre une amélioration spontanée. Alerte immédiate ; rien par voie orale avant évaluation de la déglutition."
+  },
+  {
+    "discipline": "Immunologie et infectiologie",
+    "title": "Fièvre et altération de l’état général après intervention",
+    "level": "L2-L3",
+    "context": "Mme N., 81 ans, est à J3 d’une intervention chirurgicale. Elle devient confuse, frissonne et paraît très fatiguée.",
+    "data": [
+      "Température 39,1 °C, FC 124/min, FR 28/min",
+      "PA 88/52 mmHg, SpO₂ 93 %",
+      "Pansement légèrement souillé ; diurèse moins abondante selon l’équipe"
+    ],
+    "tasks": [
+      "Identifier les signes de gravité et l’hypothèse de sepsis.",
+      "Quelles actions immédiates et surveillances mettre en place ?",
+      "Quels éléments recueillir sans retarder l’alerte ?",
+      "Rédiger une transmission structurée."
+    ],
+    "correction": [
+      "Fièvre, tachycardie, polypnée, hypotension, confusion et baisse de diurèse sont des signes de dégradation avec suspicion d’infection sévère/sepsis.",
+      "Alerter immédiatement selon procédure d’urgence, rester auprès de la patiente, surveiller ABC, conscience et constantes, préparer les examens et traitements prescrits/protocolisés, appliquer les précautions adaptées.",
+      "Rechercher chronologie, douleur, site opératoire, aspect du pansement, dispositifs invasifs, allergies, traitements, antécédents et évolution. Ne pas retarder l’alerte pour compléter le recueil.",
+      "Transmettre heure, signes, constantes, conscience, diurèse, site suspect, actions, interlocuteur alerté et réponse."
+    ],
+    "safety": "Urgence potentielle avec hypotension et confusion. Appliquer le protocole sepsis/urgence local sans délai."
+  },
+  {
+    "discipline": "Hygiène, sécurité et prévention",
+    "title": "Risque d’accident d’exposition au sang",
+    "level": "L1-L2",
+    "context": "Lors du rangement après un prélèvement, un étudiant se pique avec une aiguille utilisée qui a été recapuchonnée puis déposée hors du collecteur adapté.",
+    "data": [
+      "Piqûre percutanée au doigt",
+      "Gants portés pendant le geste",
+      "Statut sérologique de la source non connu"
+    ],
+    "tasks": [
+      "Quelles pratiques ont contribué à l’accident ?",
+      "Décrire les premiers gestes et la procédure à suivre.",
+      "Quelles actions de prévention éviteront la répétition ?",
+      "Quels éléments tracer ?"
+    ],
+    "correction": [
+      "Recapuchonnage et élimination hors collecteur adapté sont des pratiques à risque. Les gants ne suppriment pas le risque AES.",
+      "Appliquer immédiatement la procédure AES de l’établissement : soins locaux immédiats selon protocole, déclaration et évaluation médicale urgente dans les délais prévus. Ne pas improviser de désinfection ou retarder l’évaluation.",
+      "Ne jamais recapuchonner, éliminer immédiatement l’aiguille dans le collecteur adapté au point d’utilisation, vérifier le niveau de remplissage, formation et disponibilité du matériel.",
+      "Tracer heure, circonstances, dispositif, profondeur/site, premiers gestes, déclaration, évaluation et suivi selon procédure."
+    ],
+    "safety": "Suivre immédiatement la procédure AES locale et obtenir une évaluation médicale urgente."
+  }
+]

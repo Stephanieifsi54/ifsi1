@@ -1,0 +1,366 @@
+[
+  {
+    "discipline": "Méthode clinique",
+    "title": "La boucle de raisonnement infirmier",
+    "level": "L1 · socle",
+    "goal": "Passer d'une observation à une action argumentée et réévaluée.",
+    "content": [
+      [
+        "1. Recueillir",
+        "Distinguer ce que la personne dit, ce que l'on observe, ce que l'on mesure et ce qui vient du dossier. Dater les données et identifier leur source."
+      ],
+      [
+        "2. Comprendre",
+        "Relier les données à l'anatomie, la physiologie, la pathologie, au contexte de vie et aux traitements connus. Séparer les faits des hypothèses."
+      ],
+      [
+        "3. Prioriser",
+        "Repérer d'abord ce qui menace immédiatement la sécurité ou une fonction vitale. Identifier les données manquantes sans retarder une alerte nécessaire."
+      ],
+      [
+        "4. Agir dans son champ",
+        "Réaliser les soins relevant de son rôle, appliquer les prescriptions et protocoles valides, demander aide et supervision lorsque nécessaire."
+      ],
+      [
+        "5. Réévaluer",
+        "Comparer l'état avant/après, rechercher efficacité, tolérance et effets indésirables. Une action sans réévaluation ne clôt pas le raisonnement."
+      ],
+      [
+        "6. Tracer et transmettre",
+        "Transmettre des faits précis, datés, hiérarchisés, utiles à la continuité des soins. Signaler les incertitudes."
+      ]
+    ],
+    "exercise": "Une personne devient plus confuse et sa fréquence respiratoire augmente. Classe les données disponibles, repère les informations urgentes à recueillir et formule une alerte structurée.",
+    "correction": "La priorité est la sécurité et l'évaluation clinique immédiate selon le contexte du service. Transmettre l'évolution, les constantes disponibles, l'heure d'apparition, les signes associés et les actions déjà réalisées. Ne pas poser seul un diagnostic étiologique."
+  },
+  {
+    "discipline": "Cardiovasculaire",
+    "title": "Du cœur à la perfusion des organes",
+    "level": "L1 · socle",
+    "goal": "Comprendre le trajet du sang et relier circulation, pression artérielle et signes cliniques.",
+    "content": [
+      [
+        "Anatomie fonctionnelle",
+        "Le cœur comporte deux oreillettes et deux ventricules. Les oreillettes reçoivent le sang ; les ventricules l'éjectent."
+      ],
+      [
+        "Petite circulation",
+        "Le ventricule droit propulse le sang vers les poumons où ont lieu les échanges gazeux ; le sang revient à l'oreillette gauche."
+      ],
+      [
+        "Grande circulation",
+        "Le ventricule gauche propulse le sang dans l'aorte vers les organes ; le retour veineux rejoint l'oreillette droite."
+      ],
+      [
+        "Conduction",
+        "Le système de conduction coordonne l'activation électrique et la contraction. Fréquence, rythme et efficacité mécanique participent au débit cardiaque."
+      ],
+      [
+        "Lecture clinique",
+        "Une modification de la fréquence, de la pression artérielle, de la coloration, de la conscience, de la diurèse ou de la tolérance à l'effort doit être replacée dans le contexte global."
+      ]
+    ],
+    "exercise": "Explique le trajet d'une goutte de sang depuis l'oreillette droite jusqu'à l'aorte, puis cite trois éléments de surveillance utiles chez une personne présentant un malaise.",
+    "correction": "Oreillette droite → ventricule droit → circulation pulmonaire → oreillette gauche → ventricule gauche → aorte. La surveillance dépend du contexte : état de conscience, fréquence et rythme, pression artérielle, douleur, dyspnée, coloration, perfusion périphérique et évolution."
+  },
+  {
+    "discipline": "Respiratoire",
+    "title": "Ventilation, échanges gazeux et signes respiratoires",
+    "level": "L1 · socle",
+    "goal": "Relier voies aériennes, alvéoles, échanges et observation clinique.",
+    "content": [
+      [
+        "Chemin de l'air",
+        "Fosses nasales, pharynx, larynx, trachée, bronches, bronchioles puis alvéoles."
+      ],
+      [
+        "Rôle alvéolaire",
+        "Les alvéoles sont au contact d'un réseau capillaire ; elles permettent les échanges d'oxygène et de dioxyde de carbone."
+      ],
+      [
+        "Mécanique ventilatoire",
+        "Le diaphragme et les muscles respiratoires modifient les volumes thoraciques et permettent l'entrée et la sortie de l'air."
+      ],
+      [
+        "Vocabulaire clinique",
+        "Dyspnée : difficulté respiratoire. Orthopnée : gêne respiratoire en position allongée. Sibilants : bruits respiratoires sifflants. Polypnée : respiration rapide."
+      ],
+      [
+        "Surveillance",
+        "Observer fréquence, amplitude, régularité, signes de lutte, capacité à parler, coloration, conscience, saturation si indiquée et évolution."
+      ]
+    ],
+    "exercise": "Une personne présente une dyspnée nouvelle, parle par phrases courtes et adopte une position assise penchée en avant. Qu'observes-tu et que transmets-tu en priorité ?",
+    "correction": "Décrire précisément la dyspnée, la capacité à parler, la posture, la fréquence respiratoire, les signes de lutte, la coloration, la conscience et les constantes disponibles. Alerter selon la gravité et l'organisation du service ; ne pas banaliser une aggravation."
+  },
+  {
+    "discipline": "Douleur et pharmacologie",
+    "title": "De la douleur à la réévaluation du traitement",
+    "level": "L1 · socle",
+    "goal": "Comprendre la douleur, l'évaluer, prévenir les douleurs induites et surveiller les traitements.",
+    "content": [
+      [
+        "Douleur et nociception",
+        "La douleur est une expérience sensorielle et émotionnelle. La nociception désigne les mécanismes nerveux de détection et de transmission d'un stimulus potentiellement dommageable."
+      ],
+      [
+        "Types de douleur",
+        "Distinguer douleur nociceptive, neuropathique et nociplastique ; aiguë et chronique. Le mécanisme et le retentissement ne se déduisent pas du seul chiffre d'intensité."
+      ],
+      [
+        "Évaluer",
+        "Privilégier l'auto-évaluation lorsque la personne peut communiquer. Sinon, utiliser un outil adapté et observer comportement, contexte et retentissement."
+      ],
+      [
+        "Prendre en charge",
+        "Anticiper les douleurs induites par les soins, associer les moyens non médicamenteux et les traitements prescrits, expliquer et rechercher l'accord de la personne."
+      ],
+      [
+        "Pharmacologie",
+        "Pour chaque médicament : vérifier indication, prescription, identité, dose, voie, moment, allergies, contre-indications connues et paramètres de surveillance selon le produit."
+      ],
+      [
+        "Boucle infirmière",
+        "Évaluer → prévenir/anticiper → agir → réévaluer → tracer → transmettre → adapter dans le cadre autorisé."
+      ]
+    ],
+    "exercise": "Après un antalgique prescrit, la personne dit être encore douloureuse. Quelles données recueilles-tu avant de conclure à l'inefficacité ?",
+    "correction": "Reprendre intensité et localisation, type, début, évolution, retentissement, outil utilisé, heure et voie d'administration, délai attendu, traitements associés, effets indésirables et facteurs contextuels. Réévaluer selon le délai pertinent au traitement et transmettre si douleur persistante ou aggravation."
+  },
+  {
+    "discipline": "Appareil locomoteur",
+    "title": "Os, articulations et muscles : du mouvement à l'autonomie",
+    "level": "L1 · socle",
+    "goal": "Relier structures musculo-squelettiques, mobilité, douleur et surveillance.",
+    "content": [
+      [
+        "Os",
+        "Le squelette soutient, protège, participe au mouvement, constitue un réservoir minéral et certaines cavités osseuses abritent l'hématopoïèse."
+      ],
+      [
+        "Remodelage",
+        "Les ostéoblastes construisent la matrice osseuse ; les ostéoclastes résorbent l'os. Le remodelage participe à l'homéostasie minérale."
+      ],
+      [
+        "Articulations",
+        "Elles relient les os et autorisent des mouvements variables selon leur structure ; cartilage et tissus associés contribuent à la mobilité et à la stabilité."
+      ],
+      [
+        "Muscle",
+        "Le muscle squelettique contient des fibres, myofibrilles et sarcomères ; l'interaction actine-myosine, dépendante du calcium et de l'énergie, permet la contraction."
+      ],
+      [
+        "Fracture",
+        "Le cours distingue hématome, cal fibrocartilagineux, cal osseux puis remodelage. La surveillance s'intéresse notamment à la douleur, la mobilité, l'intégrité et l'évolution."
+      ]
+    ],
+    "exercise": "Une personne immobilisée après une fracture décrit une douleur plus forte et une sensation de tension sous son immobilisation. Quelles observations et transmissions sont nécessaires ?",
+    "correction": "Ne pas banaliser une douleur qui augmente. Observer et transmettre évolution de la douleur, sensibilité, motricité, coloration, chaleur, œdème, mobilité des extrémités et tout signe inhabituel selon le protocole et les consignes du service. Alerter rapidement si suspicion de complication."
+  },
+  {
+    "discipline": "Psychologie et sociologie",
+    "title": "Comprendre la personne dans son environnement",
+    "level": "L1 · socle",
+    "goal": "Intégrer dimensions psychologiques, sociales et environnementales au recueil de données.",
+    "content": [
+      [
+        "Approche biopsychosociale",
+        "L'état de santé s'inscrit dans l'interaction entre dimensions biologiques, psychologiques et sociales."
+      ],
+      [
+        "Développement et attachement",
+        "L'histoire développementale, les liens, les expériences antérieures et les ressources influencent les réactions à la maladie et aux soins."
+      ],
+      [
+        "Stress et coping",
+        "Identifier les facteurs de stress, les réactions de la personne et ses stratégies d'adaptation sans réduire son vécu à une étiquette."
+      ],
+      [
+        "Déterminants sociaux",
+        "Logement, ressources, travail, accès aux soins, entourage, langue et conditions de vie peuvent influencer santé, compréhension et continuité des soins."
+      ],
+      [
+        "Posture soignante",
+        "Explorer le vécu avec des questions ouvertes, respecter les choix et éviter les jugements ou les suppositions."
+      ]
+    ],
+    "exercise": "Une personne refuse un soin et dit ne pas avoir compris son utilité. Quelles hypothèses relationnelles et sociales peux-tu explorer sans interpréter trop vite ?",
+    "correction": "Vérifier l'information comprise, la langue, les représentations, la douleur, la peur, les expériences antérieures, les contraintes personnelles et le souhait de la personne. Reformuler, informer, respecter le refus et solliciter l'équipe selon la situation."
+  },
+  {
+    "discipline": "Communication et soins",
+    "title": "Écoute, information et transmissions utiles",
+    "level": "L1 · socle",
+    "goal": "Adapter la communication à la personne et à l'équipe.",
+    "content": [
+      [
+        "Communication",
+        "Les dimensions verbale, non verbale et paraverbale donnent des indices complémentaires ; elles doivent être interprétées avec prudence."
+      ],
+      [
+        "Écoute active",
+        "Laisser un temps de parole, utiliser des questions ouvertes, reformuler et vérifier la compréhension."
+      ],
+      [
+        "Information et consentement",
+        "Expliquer le soin de façon adaptée, rechercher l'accord, respecter le refus et solliciter l'équipe si la situation dépasse son champ."
+      ],
+      [
+        "Transmission",
+        "Séparer faits observés, propos rapportés, mesures, actions réalisées et éléments restant à vérifier."
+      ],
+      [
+        "Confidentialité",
+        "Partager les informations utiles à la continuité et à la coordination des soins dans le cadre légal, sans divulgation injustifiée."
+      ]
+    ],
+    "exercise": "Transforme « le patient va mal » en transmission factuelle et exploitable.",
+    "correction": "Décrire ce qui a changé, depuis quand, les propos exacts utiles, les observations et constantes disponibles, les actions réalisées, la réponse observée et le professionnel alerté."
+  },
+  {
+    "discipline": "Immunologie et infectiologie",
+    "title": "Des défenses immunitaires à la prévention de la transmission",
+    "level": "L1 · socle",
+    "goal": "Comprendre immunité innée/adaptative, organes lymphoïdes et chaîne infectieuse.",
+    "content": [
+      [
+        "Immunité innée",
+        "Première ligne de défense : peau et muqueuses, barrières chimiques, inflammation, diapédèse et phagocytose."
+      ],
+      [
+        "Immunité adaptative",
+        "Réponse spécifique reposant sur les lymphocytes B et T, les anticorps et la mémoire immunitaire."
+      ],
+      [
+        "Organes lymphoïdes",
+        "Moelle osseuse : hématopoïèse et maturation des lymphocytes B ; thymus : maturation des lymphocytes T ; ganglions : filtration de la lymphe ; rate : filtration du sang."
+      ],
+      [
+        "Chaîne infectieuse",
+        "Agent infectieux → réservoir → porte de sortie → mode de transmission → porte d'entrée → hôte réceptif. Interrompre un maillon réduit le risque de transmission."
+      ],
+      [
+        "Hygiène des mains",
+        "Les cinq indications enseignées : avant contact patient ; avant geste propre/aseptique ; après risque d'exposition à un liquide biologique ; après contact patient ; après contact avec son environnement."
+      ],
+      [
+        "Précautions",
+        "Contact, gouttelettes et air : appliquer les indications actualisées et les protocoles de l'établissement. Le choix des équipements dépend du contexte et du microorganisme."
+      ]
+    ],
+    "exercise": "Pour une infection transmise par contact indirect via un matériel partagé, identifie les maillons de la chaîne et propose les barrières à mettre en place.",
+    "correction": "Décrire agent, réservoir, sortie, vecteur/mode de transmission, entrée et hôte. Les mesures précises dépendent du risque : hygiène des mains, matériel dédié ou désinfecté selon protocole, précautions adaptées et information de l'équipe."
+  },
+  {
+    "discipline": "Gestion des risques et droit",
+    "title": "Sécuriser, déclarer et transmettre un événement indésirable",
+    "level": "L1 · socle",
+    "goal": "Appliquer la méthode Repérer–Réagir–Transmettre et connaître les limites de responsabilité.",
+    "content": [
+      [
+        "Repérer",
+        "Constater les faits : erreur de prescription ou d'administration, rupture d'identitovigilance, soin à risque, maltraitance suspectée ou glissement de tâche. Distinguer fait observé et interprétation."
+      ],
+      [
+        "Réagir",
+        "Interrompre le geste ou le soin à risque, mettre le patient en sécurité, évaluer son état et demander immédiatement l'aide nécessaire. Ne pas dissimuler l'anomalie."
+      ],
+      [
+        "Transmettre",
+        "Alerter sans délai le professionnel responsable selon l'organisation du service. Donner les faits, horaires, patient concerné selon procédure, conséquences observées et actions déjà réalisées."
+      ],
+      [
+        "Tracer et déclarer",
+        "Tracer objectivement dans le dossier selon les règles en vigueur. La déclaration d'un événement indésirable suit le circuit institutionnel ; les délais et logiciels sont ceux de l'établissement."
+      ],
+      [
+        "Consentement et secret",
+        "Le support transmis rappelle le consentement avant chaque acte, l'information du patient, le secret professionnel et le partage d'informations strictement utiles à la prise en charge."
+      ],
+      [
+        "Limites de compétence",
+        "Une compétence future ou une réforme ne permet pas d'anticiper un droit d'exercice. Vérifier les textes réglementaires applicables, les prescriptions, les protocoles et le cadre de formation avant toute action."
+      ]
+    ],
+    "exercise": "Un antibiotique destiné à une personne a été administré à une autre. Décris les premières étapes de sécurisation et la transmission à l'encadrement.",
+    "correction": "Arrêter toute administration en cours si nécessaire, sécuriser les deux personnes concernées, évaluer immédiatement la personne ayant reçu le traitement, alerter sans délai l'infirmier responsable et le prescripteur selon procédure, conserver les éléments utiles, tracer factuellement et suivre le circuit institutionnel de déclaration. Ne pas dissimuler l'erreur."
+  },
+  {
+    "discipline": "Rénal et urinaire",
+    "title": "Fonction rénale, équilibre et surveillance",
+    "level": "L1 · socle",
+    "goal": "Comprendre le rôle du rein et relier les observations aux fonctions rénales.",
+    "content": [
+      [
+        "Fonctions",
+        "Les reins participent à l'élimination de déchets, à l'équilibre hydrique et électrolytique, à l'équilibre acido-basique et à des fonctions endocrines."
+      ],
+      [
+        "Filtration et urine",
+        "Le néphron assure filtration glomérulaire, réabsorption et sécrétion tubulaires ; l'urine formée rejoint les voies urinaires."
+      ],
+      [
+        "Données à recueillir",
+        "Diurèse, aspect des urines, apports, pertes, poids selon contexte, œdèmes, symptômes urinaires et résultats biologiques prescrits."
+      ],
+      [
+        "Raisonnement",
+        "Interpréter une variation en fonction de l'état habituel, du contexte, des traitements et de l'évolution ; signaler une diminution importante ou une anomalie préoccupante."
+      ]
+    ],
+    "exercise": "Une personne présente une baisse de diurèse depuis plusieurs heures. Quelles données complémentaires recueillir et transmettre ?",
+    "correction": "Préciser volume et période, méthode de mesure, apports et pertes, état clinique, constantes, symptômes, traitements et contexte récent. Vérifier la fiabilité du recueil et alerter selon l'importance et les consignes du service."
+  },
+  {
+    "discipline": "Endocrinien",
+    "title": "Hormones et régulation de l'organisme",
+    "level": "L1 · socle",
+    "goal": "Comprendre le principe de régulation hormonale et les signes à surveiller.",
+    "content": [
+      [
+        "Signal hormonal",
+        "Une glande endocrine libère une hormone dans le sang ; celle-ci agit sur des cellules cibles porteuses de récepteurs."
+      ],
+      [
+        "Rétrocontrôle",
+        "De nombreux systèmes utilisent un rétrocontrôle pour maintenir une variable dans une zone compatible avec le fonctionnement de l'organisme."
+      ],
+      [
+        "Glycémie",
+        "L'insuline et le glucagon participent à la régulation de la glycémie par des effets complémentaires."
+      ],
+      [
+        "Observation",
+        "Relier signes, traitements connus, alimentation, hydratation, conscience et résultats biologiques disponibles ; appliquer les protocoles du service."
+      ]
+    ],
+    "exercise": "Une personne traitée pour diabète présente sueurs, tremblements et confusion. Quelles priorités de sécurité et quelles données recueillir ?",
+    "correction": "Considérer la situation comme potentiellement urgente, sécuriser la personne, évaluer l'état de conscience et les paramètres accessibles, vérifier la glycémie selon protocole et alerter. Les actions thérapeutiques suivent prescription/protocole et champ de compétence."
+  },
+  {
+    "discipline": "Neurovasculaire",
+    "title": "Fonctions neurologiques et repérage d'une modification aiguë",
+    "level": "L1 · socle",
+    "goal": "Structurer l'observation neurologique et reconnaître une évolution nécessitant une alerte.",
+    "content": [
+      [
+        "Organisation",
+        "Le système nerveux central comprend encéphale et moelle épinière ; le système périphérique relie les structures centrales au reste du corps."
+      ],
+      [
+        "Fonctions",
+        "Motricité, sensibilité, langage, vigilance, coordination et fonctions autonomes peuvent être explorés par l'observation."
+      ],
+      [
+        "Repérage",
+        "Noter l'heure de début ou la dernière heure connue sans symptôme, l'apparition brutale ou progressive et les modifications du visage, des membres, de la parole ou de la conscience."
+      ],
+      [
+        "Transmission",
+        "Décrire les signes observés, leur chronologie, les constantes et l'évolution. Une suspicion d'accident neurovasculaire impose une alerte immédiate selon l'organisation locale."
+      ]
+    ],
+    "exercise": "Une personne présente brutalement une asymétrie du visage et une difficulté à parler. Quelles informations sont prioritaires ?",
+    "correction": "Alerter immédiatement, noter l'heure de début ou la dernière heure connue sans symptôme, décrire précisément les signes, recueillir les constantes disponibles et ne pas retarder l'alerte par des tâches non prioritaires."
+  }
+]
